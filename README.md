@@ -1,5 +1,5 @@
 # Tableau-Tips-Tricks-and-Techniques
-Code for Tableau Tips, Tricks, and Techniques, Published by Packt                                                                                                                                    
+Code for Tableau Tips, Tricks, and Techniques, Published by Packt                                                                                                                                
 # Tableau Tips, Tricks, and Techniques [Video]
 This is the code repository for [Tableau Tips, Tricks, and Techniques [Video]](https://www.packtpub.com/big-data-and-business-intelligence/tableau-tips-tricks-and-techniques-video?utm_source=github&utm_medium=repository&utm_campaign=9781789950809), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
